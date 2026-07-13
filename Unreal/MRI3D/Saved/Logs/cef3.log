@@ -1,0 +1,14 @@
+[17352:24104:0426/125358.841:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17352:24104:0426/125358.921:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20724:6252:0426/125403.064:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B27E048E20756D46EF370503C11ED28B will be ignored
+[17352:24104:0426/125407.728:ERROR:device_event_log_impl.cc(196)] [12:54:07.398] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17352:24104:0426/130401.010:ERROR:device_event_log_impl.cc(196)] [13:04:00.911] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17352:24104:0426/130401.011:ERROR:device_event_log_impl.cc(196)] [13:04:00.935] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[17352:24104:0426/130403.004:ERROR:device_event_log_impl.cc(196)] [13:04:02.854] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17352:24104:0426/130403.004:ERROR:device_event_log_impl.cc(196)] [13:04:02.874] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[17352:24104:0426/130403.671:ERROR:usb_descriptors.cc(122)] Failed to read configuration descriptor.
+[17352:24104:0426/130403.671:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[17352:24104:0426/130403.671:ERROR:device_event_log_impl.cc(196)] [13:04:03.670] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_373b&pid_1122#mad_he#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[17352:24104:0426/130409.005:ERROR:device_event_log_impl.cc(196)] [13:04:08.867] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17352:24104:0426/130409.005:ERROR:device_event_log_impl.cc(196)] [13:04:08.888] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[17352:24104:0426/134640.367:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
